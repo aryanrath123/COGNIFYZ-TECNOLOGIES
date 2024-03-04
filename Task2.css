@@ -1,0 +1,30 @@
+form {
+    border: 5px solid darkblue;
+    margin: 50px 50px;
+    height: 100px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: bisque;
+    
+}
+input {
+    margin: 20px 40px;
+    align-content: center;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+
+}
+button {
+    margin: 10px 90px;
+    background-color: yellow;
+    
+
+}
+button:hover {
+    background-color: lightgreen;
+}
+input:hover {
+    background-color: lightcyan;
+}
+
+
